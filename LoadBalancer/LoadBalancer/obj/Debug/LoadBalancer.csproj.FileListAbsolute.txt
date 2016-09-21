@@ -1,0 +1,6 @@
+c:\users\m-wicha\documents\visual studio 2015\Projects\LoadBalancer\LoadBalancer\bin\Debug\LoadBalancer.exe.config
+c:\users\m-wicha\documents\visual studio 2015\Projects\LoadBalancer\LoadBalancer\bin\Debug\LoadBalancer.exe
+c:\users\m-wicha\documents\visual studio 2015\Projects\LoadBalancer\LoadBalancer\bin\Debug\LoadBalancer.pdb
+c:\users\m-wicha\documents\visual studio 2015\Projects\LoadBalancer\LoadBalancer\obj\Debug\LoadBalancer.exe
+c:\users\m-wicha\documents\visual studio 2015\Projects\LoadBalancer\LoadBalancer\obj\Debug\LoadBalancer.pdb
+c:\users\m-wicha\documents\visual studio 2015\Projects\LoadBalancer\LoadBalancer\obj\Debug\LoadBalancer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\m-wicha\documents\visual studio 2015\Projects\WebServer\WebServer\bin\Debug\WebServer.exe.config
+c:\users\m-wicha\documents\visual studio 2015\Projects\WebServer\WebServer\obj\Debug\WebServer.csprojResolveAssemblyReference.cache
+c:\users\m-wicha\documents\visual studio 2015\Projects\WebServer\WebServer\bin\Debug\WebServer.exe
+c:\users\m-wicha\documents\visual studio 2015\Projects\WebServer\WebServer\bin\Debug\WebServer.pdb
+c:\users\m-wicha\documents\visual studio 2015\Projects\WebServer\WebServer\obj\Debug\WebServer.exe
+c:\users\m-wicha\documents\visual studio 2015\Projects\WebServer\WebServer\obj\Debug\WebServer.pdb

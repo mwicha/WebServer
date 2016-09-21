@@ -1,0 +1,5 @@
+c:\users\m-wicha\documents\visual studio 2015\Projects\WebServer2\WebServer2\bin\Debug\WebServer2.exe.config
+c:\users\m-wicha\documents\visual studio 2015\Projects\WebServer2\WebServer2\bin\Debug\WebServer2.exe
+c:\users\m-wicha\documents\visual studio 2015\Projects\WebServer2\WebServer2\bin\Debug\WebServer2.pdb
+c:\users\m-wicha\documents\visual studio 2015\Projects\WebServer2\WebServer2\obj\Debug\WebServer2.exe
+c:\users\m-wicha\documents\visual studio 2015\Projects\WebServer2\WebServer2\obj\Debug\WebServer2.pdb
